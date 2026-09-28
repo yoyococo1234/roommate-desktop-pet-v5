@@ -1,0 +1,7 @@
+.vs/
+bin/
+obj/
+__pycache__/
+*.log
+*.tmp
+*.bak
